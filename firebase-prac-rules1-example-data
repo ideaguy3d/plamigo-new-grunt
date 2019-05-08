@@ -1,0 +1,36 @@
+{
+    "admins": {
+        "sdaf982-kjlh234-xcv987": {
+            "name": "paul verne"
+        },
+        "lkj982-werwh234-xcv987": {
+            "name": "samantha grant"
+        }
+    },
+    "games": {
+        "-KhsaldkfjOJ987-99J": {
+            "metadata": {
+                "date": "05-20-2016",
+                "opponent": "San Jose",
+                "isPublic": true
+            },
+            "gameContent": {},
+            "tickets": {
+                "sdaf982-kjlh234-xcv987": true,
+                "lkj982-werwh234-xcv987": true
+            }
+        },
+        "-KhsawtMNB6578-E7F": {
+            "metadata": {
+                "date": "05-27-2016",
+                "opponent": "Manchester United",
+                "isPublic": false
+            },
+            "gameContent": {},
+            "tickets": {
+                "sdaf982-xcv98-xcv987": true,
+                "xcv456-werwh234-vvv2": true
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91.44mm" height="91.44mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 1047 1047" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.fil1 {fill:white;fill-rule:nonzero} .fil0 {fill:url(#a)}</style>
+  <linearGradient id="a" x1="1150.1" x2="-102.94" y1="721.81" y2="325.34" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#48CFAE" offset="0"/>
+   <stop stop-color="#4FC0E8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <polygon class="fil0" points="0 0 1047 0 1047 1047 0 1047"/>
+ <path class="fil1" d="m595 569l87-159c1-4 2-9 3-14s2-10 2-15c0-25-11-47-27-63-17-17-40-27-65-27s-48 10-65 27c-3 3-7 7-10 11-10 15-17 33-17 52 0 5 1 10 2 15 0 5 2 10 3 14l87 159zm-304 84l138-185v-171l-138 60v296zm158-186l136 132v-6l-95-174v-2c-3-5-4-11-5-18-1-6-2-12-2-18 0-20 6-38 15-54l-49-28v168zm156 142l151-44v-268l-63 30c9 16 14 35 14 54 0 6-1 12-2 18s-2 12-4 18c-1 1-1 1-1 2l-95 174v16zm151-23l-151 44 1 123 150-43v-124zm-171 41l-136-132v215l137 42-1-125zm-156-125l-138 185v65l138-42v-208zm15-229l66 37c2-2 4-5 6-7 20-20 48-32 79-32s59 12 79 32c2 3 5 5 7 8l80-38c1-1 3-2 5-2 6 0 10 5 10 10v436c0 5-3 9-7 10l-170 49h-6l-154-48-155 48c-5 1-11-2-12-7-1-1-1-2-1-3v-416c0-4 3-8 7-9l157-69c3-1 6-1 9 1zm151 42c18 0 34 7 45 19 12 11 19 27 19 45 0 4-1 7-1 11-1 3-2 7-3 10-4 13-13 23-23 31-11 7-23 12-37 12s-26-5-37-12c-11-8-19-18-23-31-1-3-2-7-3-10-1-4-1-7-1-11 0-18 7-34 19-45 11-12 27-19 45-19zm31 33c-8-8-19-13-31-13s-23 5-31 13-13 19-13 31c0 3 1 5 1 7 0 3 1 5 2 7 3 9 8 16 16 22 7 5 16 8 25 8s18-3 25-8c7-6 13-13 16-22 1-2 2-4 2-7 0-2 1-4 1-7 0-12-5-23-13-31z"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "firebase": "",
+  "hosting": {
+    "public": "dist"
+  }
+}

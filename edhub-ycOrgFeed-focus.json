@@ -1,0 +1,656 @@
+{
+  "channelMessages" : {
+    "-LaGjlVTPXSmxN7aQ8Fr" : {
+      "-LajUsrHl6Vyffgja2WG" : {
+        "body" : "hiii",
+        "timestamp" : 1553427566097,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-LakazPOWM-yD0cnPV9a" : {
+        "body" : "I love PHP",
+        "timestamp" : 1553446205934,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      },
+      "-Lakb9YGZg8LK2JuJM_9" : {
+        "body" : "so do I ^_^",
+        "timestamp" : 1553446250789,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-LakbCYsaGybwo8TdLxG" : {
+        "body" : "Cool. How long have you been studying it?",
+        "timestamp" : 1553446263100,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      },
+      "-LalK2dEa96o74lFxAtk" : {
+        "body" : "For a little over 3 years now... how about yourself?",
+        "timestamp" : 1553458281103,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-Lbfltw1Y6ilrPlVjGqH" : {
+        "body" : "Hey hey",
+        "timestamp" : 1554438922289,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-LbfmylNp76_Nb7HrB3i" : {
+        "body" : "Hi",
+        "timestamp" : 1554439204026,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      },
+      "-Lbfn0CVB-8B4_2_czXD" : {
+        "body" : "Angie",
+        "timestamp" : 1554439214035,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      },
+      "-Lbfn2JX99m7-fveTAdX" : {
+        "body" : "You’re site is awesome dude",
+        "timestamp" : 1554439222692,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-Lbfn4ABNDeF1rntE4OK" : {
+        "body" : "Lol awwwww",
+        "timestamp" : 1554439230272,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      }
+    },
+    "-LaJxDJecZyitHCakvdS" : {
+      "-LakkoC3M7mrNagMmCWG" : {
+        "body" : "typescript is cool, but javascript is better :)",
+        "timestamp" : 1553448780678,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      },
+      "-LalJub26nOGXCTrVFD7" : {
+        "body" : "hiii",
+        "timestamp" : 1553458244101,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      }
+    },
+    "-LakbS6IXjjFo-zOa80f" : {
+      "-LakbZUC9wruRwdUtVNQ" : {
+        "body" : "SQL makes dealing with data better :)",
+        "timestamp" : 1553446357015,
+        "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+      },
+      "-LalLxvLEJkDOrANjh1N" : {
+        "body" : "yeah, it sure does ^_^",
+        "timestamp" : 1553458781973,
+        "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+      }
+    }
+  },
+  "channels" : {
+    "-LaGjlVTPXSmxN7aQ8Fr" : {
+      "name" : "PHP Rocks!"
+    },
+    "-LaJxDJecZyitHCakvdS" : {
+      "name" : "JavaScript Ninja's"
+    },
+    "-LakbS6IXjjFo-zOa80f" : {
+      "name" : "SQL guys"
+    }
+  },
+  "jobPostings" : {
+    "-LAkak1TPGUd8yyDyn-N" : {
+      "aboutTheOrganization" : "Walnut Valley Unified School District is looking for an enthusiastic and hard working person to add to our team. Come join us!",
+      "email" : "triston.james@wvusd.org",
+      "organizationName" : "Walnut Valley Unified School District",
+      "repName" : "Triston James",
+      "timeStamp" : 1524455112928,
+      "zipCode" : 95330
+    },
+    "-LAkb2o8eHuhGIFwzmNW" : {
+      "aboutTheOrganization" : "Belmont-Redwood Shores Elementary has a close knit faculty that combines excellent liberal arts with stem based curriculum.",
+      "email" : "rob.delacruz@brse.edu",
+      "organizationName" : "Belmont-Redwood Shores Elementary",
+      "repName" : "Robert De La Cruz",
+      "timeStamp" : 1524455193930,
+      "zipCode" : 95112
+    },
+    "-LAkfn3abSEJQpQ4B2WY" : {
+      "aboutTheOrganization" : "Williams Middle School is a wonderful middle school in Tracy, California. We push for an equal amount of Art and Science education",
+      "email" : "manny.lawson@wms.sjusd.org",
+      "organizationName" : "Willis Middle School",
+      "repName" : "Manny Lawson",
+      "timeStamp" : 1524456436073,
+      "zipCode" : 95336
+    },
+    "-LBFHz6I7G0fMFXwT8NU" : {
+      "aboutTheOrganization" : "The Julius Hack Academy is a software engineering and UIUX code & design camp!",
+      "email" : "julius@julius3d.com",
+      "organizationName" : "Julius Hack Academy",
+      "repName" : "Julius",
+      "timeStamp" : 1524986802716,
+      "zipCode" : 95820
+    },
+    "-LBFJIEuikfUHHn_Ci8w" : {
+      "aboutTheOrganization" : "We teach not just PHP 7 programming concepts, but why and how those concepts are useful in real world apps! Learn why PHP 7 is the best server side programming language there is !",
+      "email" : "jphp@mail.com",
+      "organizationName" : "School of PHP 7 Core",
+      "repName" : "Julius",
+      "timeStamp" : 1524987147331,
+      "zipCode" : 95330
+    }
+  },
+  "orgApplicants" : {
+    "ERQKduaNyZdAN0lQJIHEisNct6d2" : {
+      "-LBNY-tWevCpqFsNl2-7" : {
+        "applicantCover" : "It has always been my dream to be apart of a team that is doing so much to help improve technology. \n\nI would be a hard worker and detail oriented !",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "User 3 Test",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1525125222052
+      },
+      "-LBNYOs0MUixPpmkpErO" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "User 4 Test",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1525125324354
+      },
+      "-LBNZ0GndDZIH_5G73wU" : {
+        "applicantCover" : "I really agree with the mission of Hacker Ninja Academy. Software engineering is the key to improved Artificial Intelligence technology. Without software engineering \"superstars\" AI won't get to level it can become so society won't be able to utilize its' benefits!\n\nI would love to join your organization and make contribution!",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "User 5 Test",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1525125485752
+      },
+      "-LBNak1IOjOR68Ckvwi2" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Hernandez (:\nI would LOVE to work for Hacker Ninja Academy because\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Hernandez",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1525126201556
+      },
+      "-LCBFvHRHl8vb5s44KHg" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1525992895751
+      },
+      "-LahYn9mh13m2-VYOQEQ" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1553395036932
+      },
+      "-Lao3w1egdHogJhRhQVa" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "Hacker Ninja Academy",
+        "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+        "timestamp" : 1553504387308
+      }
+    },
+    "RRe8ICppzTPykDuMqXFo8lOuTjP2" : {
+      "-LBT40EjX1jqmpO4rCh6" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1525218022467
+      },
+      "-LCNrTl6eLMdec6hEcaH" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1526204329096
+      },
+      "-LSQLIs8L7ChGyJzU37J" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1543425834582
+      },
+      "-LWXutaKim4HqTr-Lw9S" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1547847834060
+      },
+      "-LWnLBecjQio85IrhTnw" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1548123425496
+      },
+      "-L__reyJbHZfYjxHl2CU" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "user 6 test",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1552192286703
+      },
+      "-L__ruI4O4LIA8hCGIcG" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "java at edhub",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1552192349464
+      },
+      "-L_dwNaRF8rVgXsh1S_w" : {
+        "applicantCover" : "Hi ^_^/ \n I'm a roman centerion of the 12 northern legionaire. I believe in spreading our ideals across europe.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "copernicus augustus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1552260631010
+      },
+      "-Lat2Tui6aiOSebFdAoc" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "UCLA",
+        "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+        "timestamp" : 1553587891952
+      }
+    },
+    "cb5GfZmsgpV5gTugxUbsppHCEup1" : {
+      "-LBK9ln2_J2J0go4Zly4" : {
+        "applicantCover" : "Hi ^_^/ \n I'm Julius Alvarado(:\n\n I'm a Web Developer / Software Engineer / Graphic & UIUX Designer\nand an overall Hard Working Focused and Motivated Optimistic Team Player.",
+        "applicantEmail" : "julius@julius3d.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Julius Maximus Romulus",
+        "orgApplyTo" : "Edison High",
+        "orgId" : "cb5GfZmsgpV5gTugxUbsppHCEup1"
+      },
+      "-LBKAJ4YucPQWvTKa_pd" : {
+        "applicantCover" : "I am a quick learner and team player!!",
+        "applicantEmail" : "jess@yahho.com",
+        "applicantLinkedin" : "https://linkedin.com/in/juliusalvarado",
+        "applicantName" : "Jessica Smith",
+        "orgApplyTo" : "Edison High",
+        "orgId" : "cb5GfZmsgpV5gTugxUbsppHCEup1"
+      },
+      "-LBKQdFWlVAwks_f5G9d" : {
+        "applicantCover" : "Hi am a hard worker and detail oriented.\n\nI am also very punctual.\n\nThanks,\n~ Fake cover letter !!",
+        "applicantEmail" : "van@Gar.com",
+        "applicantLinkedin" : "https://linkedin.com/in/vangar",
+        "applicantName" : "Vanessa Garcia",
+        "orgApplyTo" : "Edison High",
+        "orgId" : "cb5GfZmsgpV5gTugxUbsppHCEup1"
+      }
+    }
+  },
+  "orgFeed" : {
+    "-LBJDpkCvjqkCNHnCK-L" : {
+      "aboutTheOrganization" : "Hello there ! Modesto high is the original high school of Modesto, California. We're well known for our world class liberal arts education.",
+      "email" : "ju@modestohigh.edu",
+      "name" : "julius",
+      "orgId" : "gFsIqGsaWNhwrpQPl5xm8vPmMHU2",
+      "orgName" : "Modesto High",
+      "timestamp" : 1525052824665,
+      "zipCode" : 953301
+    },
+    "-LBJFXeAfDls8BwZZuGD" : {
+      "aboutTheOrganization" : "Hi there, hope you are well! Sacramento State University is looking to grow our in house talent of staff. What are you waiting for? Come join our team!",
+      "email" : "ju@sacstate.edu",
+      "name" : "julius",
+      "orgId" : "ulkdKx5tY7WLp7ySYsJO1LCRZpd2",
+      "orgName" : "Sacramento State",
+      "timestamp" : 1525053271821,
+      "zipCode" : 95820
+    },
+    "-LBJIFxLXbL_5BHDeRcR" : {
+      "aboutTheOrganization" : "Hello there, Edison High is a high school is Stockton, California. We give the youth of our city direction! Join our team.",
+      "email" : "edison@edisonhigh.edu",
+      "name" : "julius",
+      "orgId" : "cb5GfZmsgpV5gTugxUbsppHCEup1",
+      "orgName" : "Edison High",
+      "timestamp" : 1525053984666,
+      "zipCode" : 95330
+    },
+    "-LBMhrLTuQzlSikQIQrz" : {
+      "aboutTheOrganization" : "Ninja Hacker Academy trains students to become a super star software engineers. Join our team and help us produce tech talent.",
+      "email" : "hacker@ninja.edu",
+      "name" : "Julius",
+      "orgId" : "ERQKduaNyZdAN0lQJIHEisNct6d2",
+      "orgName" : "Hacker Ninja Academy",
+      "timestamp" : 1525111289320,
+      "zipCode" : 95820
+    },
+    "-LBMkrAE4BL2AfSi10GU" : {
+      "aboutTheOrganization" : "The University of California at Los Angeles is a world class school for medicine. Join our staff to further advance our mission.",
+      "email" : "julius@ucla.edu",
+      "name" : "julius",
+      "orgId" : "RRe8ICppzTPykDuMqXFo8lOuTjP2",
+      "orgName" : "UCLA",
+      "password" : "abc123",
+      "timestamp" : 1525112075065,
+      "zipCode" : 95330
+    }
+  },
+  "orgListings" : {
+    "7VHcjqt9AfXgkOiA4GMAwmvmv103" : {
+      "-LBIVAAJTMe9igobxtVJ" : {
+        "aboutTheOrganization" : "Come join the staff at Redwood City High School!",
+        "email" : "rex@redwood.edu",
+        "name" : "Roxanne",
+        "orgName" : "Redwood City High School",
+        "password" : "jiha89",
+        "zipCode" : 95330
+      }
+    },
+    "ERQKduaNyZdAN0lQJIHEisNct6d2" : {
+      "-LBMhrLMBrX-oU80cgSY" : {
+        "aboutTheOrganization" : "Ninja Hacker Academy trains students to become a super star software engineers. Join our team and help us produce tech talent.",
+        "email" : "hacker@ninja.edu",
+        "name" : "Julius",
+        "orgName" : "Ninja Hacker Academy",
+        "zipCode" : 95820
+      }
+    },
+    "GThGiRBADjejakQhAecTeDZWZ7D2" : {
+      "-LBIUJIk0Io86Q5cZ8KG" : {
+        "aboutTheOrganization" : "hello there",
+        "email" : "jake@turner.edu",
+        "name" : "jake",
+        "orgName" : "turner elementary",
+        "password" : "jiha89",
+        "zipCode" : 93300
+      }
+    },
+    "KhLEw8YPOARd9ceccMnVIyk9krQ2" : {
+      "-LBIeAoYefh3RE9FDu5u" : {
+        "aboutTheOrganization" : "ello there world ! ^_^",
+        "email" : "ju@ucla.edu",
+        "name" : "julius",
+        "orgName" : "UCLA",
+        "password" : "jiha89",
+        "zipCode" : 95112
+      }
+    },
+    "PZEv5pPtitasJUtx2S9d0HVEw8k2" : {
+      "-LBIYuzbVd4uox_o_sG9" : {
+        "aboutTheOrganization" : "hi there ! ^_^/",
+        "email" : "ju@stanford.edu",
+        "name" : "julius",
+        "orgName" : "Stanford University",
+        "password" : "jiha89",
+        "zipCode" : 95330
+      }
+    },
+    "RRe8ICppzTPykDuMqXFo8lOuTjP2" : {
+      "-LBMkrA20Wy7B47a1i2L" : {
+        "aboutTheOrganization" : "The University of California at Los Angeles is a world class school for medicine. Join our staff to further advance our mission.",
+        "email" : "julius@ucla.edu",
+        "name" : "julius",
+        "orgName" : "UCLA",
+        "password" : "abc123",
+        "zipCode" : 95330
+      }
+    },
+    "Y Combinator" : {
+      "-LbqY443W-E6lYFEHXj3" : {
+        "email" : "php@julius3d.com",
+        "name" : "julius"
+      }
+    },
+    "cb5GfZmsgpV5gTugxUbsppHCEup1" : {
+      "-LBJIFxJmfvAZ6jre_LG" : {
+        "aboutTheOrganization" : "hello there, ello !",
+        "email" : "edison@edisonhigh.edu",
+        "name" : "julius",
+        "orgName" : "Edison High",
+        "zipCode" : 95330
+      }
+    },
+    "eGqFluCb7Yd8oyK8523JaF6TH5I3" : {
+      "-LBIbShd7o63mMjpVeoO" : {
+        "aboutTheOrganization" : "Harvard is the 2nd best !",
+        "email" : "ju@harvard.edu",
+        "name" : "julius",
+        "orgName" : "Harvard",
+        "password" : "jiha89",
+        "zipCode" : 95330
+      }
+    },
+    "ic4QUzEavGR3170DX9AUtmVIsmy1" : {
+      "-LBIaQ9yT-R-tMtTc1HV" : {
+        "aboutTheOrganization" : "Caltech is a science and engineering  institute.",
+        "email" : "ju@caltech.edu",
+        "name" : "julius",
+        "orgName" : "Caltech",
+        "password" : "jiha89",
+        "zipCode" : 95330
+      }
+    },
+    "sJUEET09cuRY5VrztCM04IucnEz1" : {
+      "-LBIXokXgFLkm6wIx7MW" : {
+        "aboutTheOrganization" : "hello there !",
+        "email" : "ju@sjsu.edu",
+        "name" : "julius",
+        "orgName" : "San Jose State University",
+        "password" : "jiha89",
+        "zipCode" : 95330
+      }
+    },
+    "test2" : {
+      "-Lbsm1aso7cvOq4PnKfG" : {
+        "email" : "hello@world.com",
+        "name" : "post new job"
+      }
+    },
+    "ulkdKx5tY7WLp7ySYsJO1LCRZpd2" : {
+      "-LBJFXe6LGq8zBO2EOAH" : {
+        "aboutTheOrganization" : "ell there, hope you are well !",
+        "email" : "ju@sacstate.edu",
+        "name" : "julius",
+        "orgName" : "Sacramento State",
+        "zipCode" : 95820
+      }
+    }
+  },
+  "organizations" : {
+    "4yx2b4GfbHhVWPvE5sHvJtaqV7H3" : {
+      "date" : 1525122089520,
+      "email" : "user201@test.com",
+      "orgName" : "no orgName input field yet :/",
+      "regUser" : "4yx2b4GfbHhVWPvE5sHvJtaqV7H3",
+      "repName" : "no name given"
+    },
+    "eGqFluCb7Yd8oyK8523JaF6TH5I3" : {
+      "date" : 1525042502567,
+      "email" : "ju@harvard.edu",
+      "orgName" : "Harvard",
+      "regUser" : "eGqFluCb7Yd8oyK8523JaF6TH5I3",
+      "repName" : "julius"
+    },
+    "sJUEET09cuRY5VrztCM04IucnEz1" : {
+      "date" : 1525041286236,
+      "email" : "ju@sjsu.edu",
+      "orgName" : "San Jose State University",
+      "regUser" : "sJUEET09cuRY5VrztCM04IucnEz1",
+      "repName" : "julius"
+    },
+    "ulkdKx5tY7WLp7ySYsJO1LCRZpd2" : {
+      "date" : 1525053271817,
+      "email" : "ju@sacstate.edu",
+      "orgName" : "Sacramento State",
+      "regUser" : "ulkdKx5tY7WLp7ySYsJO1LCRZpd2",
+      "repName" : "julius"
+    },
+    "xLhL0cdMXQRbnynev3qSE7a7J7Y2" : {
+      "date" : 1543425817202,
+      "email" : "test@user.com",
+      "orgName" : "no orgName input field yet :/",
+      "regUser" : "xLhL0cdMXQRbnynev3qSE7a7J7Y2",
+      "repName" : "no name given"
+    }
+  },
+  "userMessages" : {
+    "DjRRW0FK8FX4L3yheW88oTmtRIm2" : {
+      "K3FmJKM2FHPbPsmImMvwOfR5Jh42" : {
+        "-Lb7EMjOhuAM7fSs45Zq" : {
+          "body" : "Hi",
+          "timestamp" : 1553842666573,
+          "uid" : "DjRRW0FK8FX4L3yheW88oTmtRIm2"
+        }
+      },
+      "S5pHFuNlLUQnO65V6RZ6bvMMO9j1" : {
+        "-Lb7ENwkAyarro4OSsu2" : {
+          "body" : "Hi",
+          "timestamp" : 1553842671513,
+          "uid" : "DjRRW0FK8FX4L3yheW88oTmtRIm2"
+        }
+      }
+    },
+    "K3FmJKM2FHPbPsmImMvwOfR5Jh42" : {
+      "K3FmJKM2FHPbPsmImMvwOfR5Jh42" : {
+        "-LalA-rFGrFCioMIt17a" : {
+          "body" : "hi",
+          "timestamp" : 1553455648274,
+          "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+        }
+      },
+      "S5pHFuNlLUQnO65V6RZ6bvMMO9j1" : {
+        "-LalpTsBl8WQUnPQ9lMK" : {
+          "body" : "hi think_ninja2",
+          "timestamp" : 1553466781263,
+          "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+        },
+        "-LalpWRSKXOJDkeJK_d4" : {
+          "body" : "oh hello there, wyd?",
+          "timestamp" : 1553466791777,
+          "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+        },
+        "-LalpbhYCPwyWqd_JLwY" : {
+          "body" : "Just studying AngularJS 1.x, u?",
+          "timestamp" : 1553466817454,
+          "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+        },
+        "-LalpjGpoM-6Dm0Y8aAd" : {
+          "body" : "Nice. I like ng1. I'm just coding this dia I have",
+          "timestamp" : 1553466848439,
+          "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+        },
+        "-LalpkUhQv3n9iO3qJjb" : {
+          "body" : "idea*",
+          "timestamp" : 1553466853429,
+          "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+        },
+        "-LamaHNj7i4jh1kwO-vK" : {
+          "body" : "ohh, so you're an idea guy huh?",
+          "timestamp" : 1553479575160,
+          "uid" : "K3FmJKM2FHPbPsmImMvwOfR5Jh42"
+        },
+        "-LaocjrLVzIPoiCp15gc" : {
+          "body" : "Indeed, indeed I am (:",
+          "timestamp" : 1553513774735,
+          "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+        },
+        "-Laocm5PQPee0UKIq2NX" : {
+          "body" : "lol",
+          "timestamp" : 1553513783888,
+          "uid" : "S5pHFuNlLUQnO65V6RZ6bvMMO9j1"
+        }
+      }
+    }
+  },
+  "users" : {
+    "DjRRW0FK8FX4L3yheW88oTmtRIm2" : {
+      "displayName" : "Julius",
+      "emailHash" : "b6d73a201203e5cf82a12cc6600e4b5b"
+    },
+    "K3FmJKM2FHPbPsmImMvwOfR5Jh42" : {
+      "displayName" : "think_ninja2",
+      "emailHash" : "bcc071b1a2a4839eb2dc5087957abe68"
+    },
+    "S5pHFuNlLUQnO65V6RZ6bvMMO9j1" : {
+      "displayName" : "phpCoder",
+      "emailHash" : "f5454885df4ed9abedb22ead248de4f6"
+    },
+    "WmoL22JavCe66vTCuXNgvhjW5R53" : {
+      "displayName" : "ideaguy3d",
+      "emailHash" : "7456e7c13ed96bd18f48c295add70f65"
+    }
+  },
+  "ycOrgFeed" : {
+    "-LBJDpkCvjqkCNHnCK-L" : {
+      "aboutTheOrganization" : "We are looking for a creative yet analytical designer to bridge our data presentation layer to our user experience",
+      "name" : "julius",
+      "orgId" : "gFsIqGsaWNhwrpQPl5xm8vPmMHU2",
+      "orgName" : "UI/UX Designer",
+      "timestamp" : 1525052824665
+    },
+    "-Lbtf1tCijkCvklhoReS" : {
+      "aboutTheOrganization" : "Looking for a PHP coder with strong SQL skills to feed the data presentation layer with some data",
+      "curOrganization" : "Y Combinator",
+      "name" : "",
+      "orgId" : "",
+      "orgName" : "Full Stack Engineer",
+      "timestamp" : 0
+    },
+    "-Lbtfl63Ys5fiVHRK3q9" : {
+      "aboutTheOrganization" : "Provides application and technical support for the product line in addition to providing triage and troubleshooting to the product customers.",
+      "curOrganization" : "Y Combinator",
+      "name" : "",
+      "orgId" : "",
+      "orgName" : "Application Analyst",
+      "timestamp" : 0
+    },
+    "-Lc6syluU-3luXdxLl3H" : {
+      "aboutTheOrganization" : "use your awesome html/css/js skills to code up the user facing presentation layers to our application development",
+      "curOrganization" : "Y Combinator",
+      "name" : "",
+      "orgId" : "",
+      "orgName" : "front end developer",
+      "timestamp" : 0
+    },
+    "-Lc6uejvKAhFJid3_URm" : {
+      "aboutTheOrganization" : "We are looking for a ninja web dev to help us build websites and web apps",
+      "curOrganization" : "Y Combinator",
+      "name" : "",
+      "orgId" : "",
+      "orgName" : "web developer",
+      "timestamp" : 0
+    },
+    "-Lc6vgpKYcCWMoB_Lgy6" : {
+      "aboutTheOrganization" : "come contribute to code base running our API server and Database Server",
+      "curOrganization" : "Y Combinator",
+      "name" : "",
+      "orgId" : "",
+      "orgName" : "Backend Engineer",
+      "timestamp" : 0
+    },
+    "-Lc6vr68wyIbumjq-VWF" : {
+      "aboutTheOrganization" : "Use Photoshop, Illustrator, and any other tool to create breathe taking graphics",
+      "curOrganization" : "Y Combinator",
+      "orgName" : "Graphic Designer"
+    }
+  }
+}

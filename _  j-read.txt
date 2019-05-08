@@ -1,0 +1,46 @@
+
+
+
+4-27-2019: 
+This project used to be "edhub",
+but I'm renaming it "Plagmigo" and will build 
+the plamigo app with it and make the modifications.
+
+This will be the folder that gets deployed to Firebase hosting
+at the plamigo.co domain 
+
+
+
+4-08-2018:
+This is Thee EdHub.co product.
+$grunt serve
+and it should work fine.
+
+
+4-22-2018:
+Projects / Courses to MASTER for this product:
+
+FREE
+~ "Slack Clone" thinkster tutorial
+~ Other thinkster AngularJS tutorials
+~ "Monarch" template design <3 <3
+~ "FirebaseDB blog app" glitch.com
+~ Reading the Firebase source docs
+~ Reading the AngularJS source docs
+
+PAID
+~ "AngularJS Data Driven app" lynda.com course
+~ "Animating AngularJS app" pluralsight
+~ "AngularJS Directives" pluralsight
+~ "Angular Material" pluralsight/egghead course
+~ "AngularJS quiz app" lynda.com
+
+
+
+
+
+
+
+
+
+//

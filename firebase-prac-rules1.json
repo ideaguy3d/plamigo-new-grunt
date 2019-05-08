@@ -1,0 +1,35 @@
+{
+  "rules": {
+    ".read": true,
+    "games": {
+      "$gameId": {
+        "metadata": {
+          ".read": true,
+          ".write": "root.child('admins').hasChild(auth.uid)",
+          ".validate": "newData.hasChildren(['date', 'opponent'])",
+          "date": {
+            ".validate": "newData.val().matches(/^\\d{2}-\\d{2}-\\d{4}$/)"
+          },
+          "opponent": {
+            ".validate": "newData.val().contains('s')"
+          },
+          "isPublic": {
+            ".validate": "newData.val().isBoolean()"
+          },
+          "$other": {
+            ".validate": "false"
+          }
+        },
+        "gameContent": {
+          ".read": "data.parent().child('tickets').hasChild(auth.uid)"
+        },
+        "tickets": {
+          "$uid": {
+            ".read": "auth.uid === $uid",
+            ".write": "auth.uid === $uid"
+          }
+        }
+      }
+    }
+  }
+}
