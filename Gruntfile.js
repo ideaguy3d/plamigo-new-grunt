@@ -8,6 +8,7 @@
 // 'test/spec/**/*.js'
 
 module.exports = function (grunt) {
+
     // Load grunt tasks automatically
     require('load-grunt-tasks')(grunt);
 
@@ -23,6 +24,10 @@ module.exports = function (grunt) {
     // Define the configuration for all the tasks
     grunt.initConfig({
 
+        // Project settings
+        yeoman: appConfig,
+
+        // concatenate the files for babel
         concat: {
             options: {
                 separator: ';'
@@ -32,9 +37,6 @@ module.exports = function (grunt) {
                 dest: 'app/code.js'
             }
         },
-
-        // Project settings
-        yeoman: appConfig,
 
         // Watches files for changes and runs tasks based on the changed files
         watch: {
@@ -436,6 +438,7 @@ module.exports = function (grunt) {
     grunt.registerTask('combine', [
         'concat'
     ]);
+
 };
 
 //
