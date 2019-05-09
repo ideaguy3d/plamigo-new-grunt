@@ -1,0 +1,49 @@
+<!DOCTYPE html> <html lang="en" class="no-js" ng-app="edhubJobsApp"> <head> <meta charset="utf-8"> <title>Plagimo.co</title> <meta http-equiv="x-ua-compatible" content="IE=edge"> <meta name="description" content="The Education Jobs site"> <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"> <meta name="author" content="Julius Hernandez Alvarado"> <link rel="stylesheet" href="styles/vendor.33845b57.css"> <link rel="stylesheet" href="styles/main.ea34e4ed.css"> <!-- CDN scripts --> <script src="https://cdn.firebase.com/libs/geofire/5.0.1/geofire.js"></script> <!-- &callback=myMap --> <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC97txSDaXo4QxSphjx_KqwW748OGwJUz8"></script> <!-- ng-cloak --> <style type="text/css"> [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none !important;
+        } </style> </head> <body ng-controller="CoreCtrl"> <!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">
+    upgrade your browser</ato improve your experience.</p>
+<![endif]--> <!-- TODO: Put this footer into an include or a directive --> <!-- Horizontal Navigation --> <md-nav-bar ng-show="coreEdhubHorizontalState" md-selected-nav-item="currentNavItem" nav-bar-aria-label="navigationLinks"> <!-- Home Link --> <md-nav-item md-nav-href="#!/"> <b>Plamigo.co</b> </md-nav-item> <!-- #!/learning-management
+    <md-nav-item ng-if="!ccCurrentUser" md-nav-href="">
+        Top Rated
+    </md-nav-item>
+    --> <!-- #!/performance-management
+    <md-nav-item ng-if="!ccCurrentUser" md-nav-href="">
+        Near Me
+    </md-nav-item>
+    --> <!-- #!/talent-acquisition --> <md-nav-item md-nav-href="http://plamigo.me"> Find Friends </md-nav-item> <!-- #!/events --> <md-nav-item md-nav-href="#!/events"> Events </md-nav-item> <md-subheader ng-if="ccCurrentUser" layout="column"> <ng-md-icon icon="perm_identity"></ng-md-icon> {{ " Welcome " + ccCurrentUser }} </md-subheader> </md-nav-bar> <!-----------------------------------------> <!---- Initial coreSidenav Menu Button ----> <!-------------------
+<md-button id="edhub-core-nav-menu-btn" class="md-fab md-primary"
+           aria-label="Recent Jobs" ng-click="coreEdhubToggleSideNav()">
+    <ng-md-icon icon="menu"></ng-md-icon>
+</md-button>
+----------------------> <!----------------------------------> <!--------- EdHub Auth Box ---------> <!------------------
+<div id="edhub-auth-info-container" flex-xs="70" flex-sm="50" flex-gt-sm="20">
+    <md-fab-speed-dial ng-hide="ccAuthBoxHidden" md-direction="down" md-open="ccAuthBoxIsOpen"
+                       class="md-scale md-fab-top-right"
+                       ng-class="{ 'md-hover-full': ccAuthBoxHover }"
+                       ng-mouseenter="ccAuthBoxIsOpen=true" ng-mouseleave="ccAuthBoxIsOpen=false">
+
+        <md-fab-trigger>
+            <md-button aria-label="menu" class="md-primary">
+                <ng-md-icon id="edhub-auth-box-avatar" icon="account_box" size="36"></ng-md-icon>
+                <p class="edhub-auth-box-username">
+                    {{rootEdhubAuthUser.email ? rootEdhubAuthUser.email : "This doesn't work Yet"}}
+                </p>
+            </md-button>
+        </md-fab-trigger>
+
+        <md-fab-actions>
+            <div ng-repeat="item in ccItems">
+                <md-button aria-label="{{item.name}}" class="md-fab md-raised md-mini"
+                           ng-click="ccAuthBoxAction($event, item)">
+                    <md-tooltip md-direction="{{item.direction}}" md-visible="tooltipVisible" md-autohide="false">
+                        {{ item.name }}
+                    </md-tooltip>
+                    <ng-md-icon icon="{{item.icon}}"></ng-md-icon>
+                    <md-icon md-svg-src="{{item.icon}}" aria-label="{{item.name}}"></md-icon>
+                </md-button>
+            </div>
+        </md-fab-actions>
+    </md-fab-speed-dial>
+</div>
+----------------> <div ng-cloak layout="row" class="edhub-main-app-view-container"> <!----------------------> <!------ Side-nav ------> <!----------------------> <div ng-include="'layout/sidenav/in.sidenav.html'" layout="vertical"></div> <!---------------------> <!-- app entry point --> <!---------------------> <ng-view flex autoscroll="true"></ng-view> </div> <br> <!-- TODO: Put this footer into an include or a directive --> <!-- footer --> <div layout="row" layout-xs="column" style="background-color: whitesmoke;"> <!-- Left --> <div flex layout-margin layout-padding> <h1 class="text-center"> About Plamigo.co </h1> <h3>For places to go, Plamigo.co</h3> <p>Plamigo.co shows how many people are in a venue in realtime <button>Learn More</button> </p> </div> <!-- Middle --> <div flex layout-margin layout-padding> <h1>Plamigo.co Progress</h1> <ol> <li> Code initial UI and basic Authentication <ng-md-icon icon="check"></ng-md-icon> </li> <li> Implement Backend API to CRUD data <ng-md-icon icon="error"></ng-md-icon> </li> <li> Integrate 3rd party API's <ng-md-icon icon="error"></ng-md-icon> </li> <li> Write Unit & e2e tests, <i>near future</i> <ng-md-icon icon="error"></ng-md-icon> </li> <li> Make UI even prettier for awesome UX, <i>near future</i> <ng-md-icon icon="error"></ng-md-icon> </li> </ol> </div> </div> <script src="scripts/vendor.0b9e6e9d.js"></script> <script src="scripts/scripts.9aca9101.js"></script> 
